@@ -1,0 +1,24 @@
+erver: 'http://127.0.0.1:3000/api', // your URL to API endpoint the tests will run against
+  options: {
+
+    'path': [],       // Required Array if Strings; filepaths to API description documents, can use glob wildcards
+
+    'dry-run': false, // Boolean, do not run any real HTTP transaction
+    'names': false,   // Boolean, Print Transaction names and finish, similar to dry-run
+server: 'http://127.0.0.1:3000/api', // your URL to API endpoint the tests will run against
+  options: {
+
+    'path': [],       // Required Array if Strings; filepaths to API description documents, can use glob wildcards
+
+    'dry-run': false, // Boolean, do not run any real HTTP transaction
+    'names': false,   // Boolean, Print Transaction names and finish, similar to dry-run
+
+server: 'http://127.0.0.1:3000/api', // your URL to API endpoint the tests will run against
+  options: {
+
+    'path': [],       // Required Array if Strings; filepaths to API description documents, can use glob wildcards
+
+    'dry-run': false, // Boolean, do not run any real HTTP transaction
+    'names': false,   // Boolean, Print Transaction names and finish, similar to dry-run
+
+server: 'http://127.0.0.1:3000/api', // your URL to API endpoint the tests will run against 
